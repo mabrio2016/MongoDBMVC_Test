@@ -1,1 +1,1 @@
-.NET MVC with MongoDB Atlas
+ASP.NET MVC application using MongoDB Atlas to store the information.
